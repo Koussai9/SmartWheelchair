@@ -42,7 +42,7 @@ const Notification = () => {
         vibrate: [0, 250, 250, 250],
         data: {
           idSender: "1",
-          userName: "Firas",
+          userName: "",
         },
       },
       trigger: { seconds: 2 },
